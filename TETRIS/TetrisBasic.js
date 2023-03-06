@@ -423,3 +423,5 @@ function GetLastSquareX() {
     }
     return lastX;
 }
+
+// Kalert fixing the game
